@@ -41,4 +41,10 @@
   </a>
 </div>
 
+###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Pedro-Vitor-Ribeiro-Silva/Pedro-Vitor-Ribeiro-Silva/output/snake.svg" alt="Snake animation" />
+
+###
