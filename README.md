@@ -37,6 +37,7 @@
   <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo"  />
+  <img width="12" />
   <br/>
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
